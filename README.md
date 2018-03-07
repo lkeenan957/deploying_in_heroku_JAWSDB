@@ -12,7 +12,7 @@ Steps:
 9. Go to your config file: change the username, password, host, check the dialect,
 and the production tab:
 EXAMPLE:
-
+```
 {
   "development": {
     "username": "s9yg6g72pv2b07um",
@@ -35,6 +35,7 @@ EXAMPLE:
     "dialect":"mysql"
   }
 }
+```
 
 10. THen save everything.
 11. Then do the steps to push it to git.
