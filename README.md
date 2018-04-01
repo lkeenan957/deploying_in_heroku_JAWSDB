@@ -46,5 +46,7 @@ EXAMPLE:
 12. then type: git push heroku master
 13. Then go to heroku and click on the project.
 14. It would have deployed!
+15. There will be error messages saying create your tables in heroku: 
+ - see attachment
 
 Hope this file is clear!!!
